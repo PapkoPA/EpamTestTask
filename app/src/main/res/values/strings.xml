@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EpamTestTask</string>
+    <string name="str">Created by Papko Pavel</string>
+    <string name="button_name">Button</string>
+</resources>
